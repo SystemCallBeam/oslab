@@ -9,6 +9,5 @@ int main() {
 	}	
 	printf("summation = %.2f\n", ans);
 	printf("avg = %.2f\n", ans/cnt);
-	//printf("summation = %d\n", a+b+c);
 	return 0;
 }
