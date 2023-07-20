@@ -10,4 +10,4 @@ int main() {
 	printf("summation = %.2f\n", ans);
 	printf("avg = %.2f\n", ans/cnt);
 	return 0;
-} // need to make some change
+} 
