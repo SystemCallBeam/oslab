@@ -1,0 +1,3 @@
+total 0
+-rw-rw-r-- 1 beam beam 0 ก.ค.    27 09:44 edit1.txt
+-rw-rw-r-- 1 beam beam 0 ก.ค.    27 09:45 edit2.txt
